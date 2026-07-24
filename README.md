@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  - ⚡️ I'm actively looking for internship opportunities!
 
 
-Reach me Here:
+<h3>Reach me Here:</h3>
 
 
 <div align="left">
