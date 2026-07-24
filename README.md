@@ -14,7 +14,7 @@
 
 ## Socials
 
-<div align="center">
+<div align="left">
 <a href="mailto:alexchapman757@outlook.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg" alt="Outlook" height="40" /></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/alexchapman757/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>&nbsp;&nbsp;<a href="https://leetcode.com/u/alexc750/" target="_blank"><img src="https://cdn.simpleicons.org/leetcode?v=1" alt="LeetCode" height="40" /></a>
 </div>
 
@@ -22,7 +22,7 @@
 
 <br>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=bash,git,arduino,c,cpp,ai,ps" /> 
  <br>
   <img src="https://skillicons.dev/icons?i=autocad,r,html,css,java,js,py,matlab" />
