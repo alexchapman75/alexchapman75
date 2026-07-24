@@ -1,4 +1,4 @@
-## Hi, My name is Alex Chapman 👋
+<h1>Hi, My name is Alex Chapman 👋 </h1>
 
 <!--
 **alexchapman75/alexchapman75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a passionate student double majoring Electrical and Computer Engineering @ NC State.
 
+
+## I'm a passionate Electrical and Computer Engineering Student @ NC State. Reach me Here:
 <br>
 
 <div align="center">
