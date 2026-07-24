@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 
 
-## I'm a passionate Electrical and Computer Engineering Student @ NC State. Reach me Here:
+<h2>I'm a passionate Electrical and Computer Engineering Student @ NC State. Reach me Here: </h2>
+
+
 <br>
 
 <div align="center">
