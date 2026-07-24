@@ -12,7 +12,7 @@
  - ⚡️ I'm actively looking for internship opportunities!
 
 
-<h3>Reach me Here:</h3>
+<h3>Socials:</h3>
 
 <div align="left">
  <a href="mailto:alexchapman757@outlook.com" target="_blank">
