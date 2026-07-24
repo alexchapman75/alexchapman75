@@ -28,6 +28,12 @@ Here are some ideas to get you started:
 <h3>Reach me Here:</h3>
 
 
+[![Outlook](https://shields.io)](mailto:alexchapman757@outlook.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com/in/alexchapman757/)
+[![LeetCode](https://shields.io)](https://leetcode.com/u/alexc750/)
+
+
+
 <div align="left">
   <a href="archapm2@ncsu.edu">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
