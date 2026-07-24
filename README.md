@@ -1,4 +1,4 @@
-<h1>Hi, My name is Alex Chapman 👋 </h1>
+##Hi, My name is Alex Chapman 👋
 
 <!--
 **alexchapman75/alexchapman75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<h2>I'm a passionate Electrical and Computer Engineering Student @ NC State. Reach me Here: </h2>
+I'm a passionate Electrical and Computer Engineering Student @ NC State. Reach me Here:
 
 
 <br>
