@@ -24,8 +24,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bash,git,arduino,c,cpp,ai,ps" />
-  <img src="https://skillicons.dev/icons?i=arduino,autocad,bash,c,cpp,css,git,html,ai,java,js,matlab,ps,py,r" />
-  <img src="https://skillicons.dev/icons?i=" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,js,py,matlab,autocad,r" />
 </p>
 
 <hr>
