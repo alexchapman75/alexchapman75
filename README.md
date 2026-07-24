@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <div align="left">
  <a href="mailto:alexchapman757@outlook.com" target="_blank">
-   <img src="https://cdn.simpleicons.org/microsoftoutlook?v=1" alt="Outlook" height="40" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg" alt="Outlook" height="40" />
  </a>
  
  <a href="https://linkedin.com/in/alexchapman757/" target="_blank">
