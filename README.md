@@ -17,7 +17,14 @@ Here are some ideas to get you started:
 
 
 
-I'm a passionate Electrical and Computer Engineering Student @ NC State. Reach me Here:
+I'm a passionate Electrical and Computer Engineering Student @ NC State.
+ - 📍 Based in Raleigh, NC
+ - ✉️ You can reach me at: alexchapman757@outlook.com
+ - 🤔 Currently Learning: Microarchitecture & Verification
+ - ⚡️ I'm actively looking for internship opportunities!
+
+
+Reach me Here:
 
 
 <br>
