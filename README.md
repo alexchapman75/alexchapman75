@@ -28,19 +28,19 @@ Here are some ideas to get you started:
 <h3>Reach me Here:</h3>
 
 ### Socials
-
-<a href="mailto:alexchapman757@outlook.com" target="_blank">
-  <img src="https://skillicons.dev" alt="Outlook" height="40" />
-</a>
-
-<a href="https://linkedin.com/in/alexchapman757/" target="_blank">
-  <img src="https://skillicons.dev" alt="LinkedIn" height="40" />
-</a>
-
-<a href="https://leetcode.com/u/alexc750/" target="_blank">
-  <img src="https://skillicons.dev" alt="LeetCode" height="40" />
-</a>
-
+<div align="left">
+ <a href="mailto:alexchapman757@outlook.com" target="_blank">
+   <img src="https://skillicons.dev" alt="Outlook" height="40" />
+ </a>
+ 
+ <a href="https://linkedin.com/in/alexchapman757/" target="_blank">
+   <img src="https://skillicons.dev" alt="LinkedIn" height="40" />
+ </a>
+ 
+ <a href="https://leetcode.com/u/alexc750/" target="_blank">
+   <img src="https://skillicons.dev" alt="LeetCode" height="40" />
+ </a>
+</div>
 
 
 <div align="left">
