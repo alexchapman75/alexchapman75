@@ -27,10 +27,19 @@ Here are some ideas to get you started:
 
 <h3>Reach me Here:</h3>
 
+### Socials
 
-[![Outlook](https://shields.io)](mailto:alexchapman757@outlook.com)
-[![LinkedIn](https://shields.io)](https://linkedin.com/in/alexchapman757/)
-[![LeetCode](https://shields.io)](https://leetcode.com/u/alexc750/)
+<a href="mailto:alexchapman757@outlook.com" target="_blank">
+  <img src="https://skillicons.dev" alt="Outlook" height="40" />
+</a>
+
+<a href="https://linkedin.com/in/alexchapman757/" target="_blank">
+  <img src="https://skillicons.dev" alt="LinkedIn" height="40" />
+</a>
+
+<a href="https://leetcode.com/u/alexc750/" target="_blank">
+  <img src="https://skillicons.dev" alt="LeetCode" height="40" />
+</a>
 
 
 
