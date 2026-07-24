@@ -1,4 +1,4 @@
-##Hi, My name is Alex Chapman 👋
+<h1>Hi, My name is Alex Chapman 👋 </h1>
 
 <!--
 **alexchapman75/alexchapman75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
