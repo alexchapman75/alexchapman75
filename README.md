@@ -37,7 +37,7 @@ Here are some ideas to get you started:
  </a>
  
  <a href="https://leetcode.com/u/alexc750/" target="_blank">
-   <img src="https://cdn.simpleicons.org/microsoftoutlook" alt="LeetCode" height="40" />
+   <img src="https://cdn.simpleicons.org/leetcode?v=1" alt="LeetCode" height="40" />
  </a>
 </div>
 
