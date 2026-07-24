@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##
+## I'm a passionate student double majoring Electrical and Computer Engineering @ NC State.
 
 <br>
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<hr>
+
 
 ### blah blah
 
