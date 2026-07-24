@@ -27,10 +27,9 @@ Here are some ideas to get you started:
 
 <h3>Reach me Here:</h3>
 
-### Socials
 <div align="left">
  <a href="mailto:alexchapman757@outlook.com" target="_blank">
-   <img src="https://skillicons.dev/icons?i=microsoftoutlook" alt="Outlook" height="40" />
+   <img src="https://cdn.simpleicons.org/microsoftoutlook" alt="Outlook" height="40" />
  </a>
  
  <a href="https://linkedin.com/in/alexchapman757/" target="_blank">
@@ -38,7 +37,7 @@ Here are some ideas to get you started:
  </a>
  
  <a href="https://leetcode.com/u/alexc750/" target="_blank">
-   <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40" />
+   <img src="https://cdn.simpleicons.org/microsoftoutlook" alt="LeetCode" height="40" />
  </a>
 </div>
 
