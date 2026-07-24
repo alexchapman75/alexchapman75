@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 Reach me Here:
 
-
 <br>
 
 <div align="left">
