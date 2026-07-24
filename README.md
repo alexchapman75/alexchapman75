@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, My name is Alex Chapman 👋
 
 <!--
 **alexchapman75/alexchapman75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Alex+Chapman!;" />
+</h1>
 
+### blah blah
 
