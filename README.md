@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 
 <h3>I'm a passionate Electrical and Computer Engineering Student @ NC State.</h3>
+
  - 📍 Based in Raleigh, NC
  - ✉️ You can reach me at: alexchapman757@outlook.com
  - 🤔 Currently Learning: Microarchitecture & Verification
