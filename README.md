@@ -6,7 +6,6 @@
 
 <h3>I'm a passionate Electrical and Computer Engineering Student @ NC State.</h3>
 
- - 📍 Based in Raleigh, NC
  - 📈 ECE Junior
  - 🤔 Currently Learning: Microarchitecture & Verification
  - ⚡️ I'm actively looking for internship opportunities!
